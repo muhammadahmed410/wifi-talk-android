@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WiFi Talk</string>
+    <string name="title_people">People</string>
+    <string name="title_chats">Chats</string>
+    <string name="title_dial_pad">Dial Pad</string>
+    <string name="title_call_history">Call History</string>
+    <string name="title_diagnostics">Diagnostics</string>
+    <string name="title_settings">Settings</string>
+</resources>

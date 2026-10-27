@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Talk",
+  "description": "Offline local Wi-Fi peer-to-peer voice calling, discovery, and messaging application without internet or cloud servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
